@@ -1,6 +1,7 @@
 # paradox.os-betas
 
-beta-pool for paradox.os PC
+This is the beta-pool for paradox.os PC
 
-this is closed-beta
-if you want to join: https://discord.gg/KNjPquSvYH
+This is closed-beta
+
+If you want to join the beta: https://discord.gg/KNjPquSvYH
